@@ -15,4 +15,4 @@ Currently I am working on [Unstocked](https://unstocked.nl/) and [Stufi](https:/
 
 [Website 🌍](https://www.snieuwmans.nl/)
 
-[![Stan's github stats](https://github-readme-stats.vercel.app/api?username=StanNieuwmans&show_icons=true&theme=dark)](https://github.com/StanNieuwmans/)
+[![Stan's github stats](https://github-readme-stats.vercel.app/api?username=StanNieuwmans&show_icons=true&theme=transparent&count_private=true)](https://github.com/StanNieuwmans/)
