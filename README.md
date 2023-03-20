@@ -9,7 +9,7 @@ Currently, I am deep-diving into the field of Machine-Learning as part of my stu
 
 Currently I am working on [Unstocked](https://unstocked.nl/) and [Stufi](https://stufi.app/).
 
-[LinkedIn 💼](https://linkedin.com/in/StanNieuwmans)
+[LinkedIn 💼](https://www.linkedin.com/in/stan-nieuwmans/)
 
 [Twitter 🐦](https://twitter.com/StanNieuwmans)
 
