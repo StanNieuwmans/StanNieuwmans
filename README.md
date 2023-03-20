@@ -14,3 +14,7 @@ Currently I am working on [Unstocked](https://unstocked.nl/) and [Stufi](https:/
 [Twitter 🐦](https://twitter.com/StanNieuwmans)
 
 [Website 🌍](https://www.snieuwmans.nl/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanNieuwmans&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanNieuwmans&show_icons=true&theme=dark)](
