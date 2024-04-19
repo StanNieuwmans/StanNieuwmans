@@ -7,7 +7,7 @@ I enjoy applying my knowledge and creativity in design projects, and have experi
 Currently, I am deep-diving into the field of Machine-Learning as part of my studies, and I am excited to bring my skills and knowledge to new opportunities.
 
 
-Currently I am working on [Unstocked](https://unstocked.nl/) and [Stufi](https://stufi.app/).
+Currently I am working on [Stakeholder Matrix Generator](https://www.nieuwmans.com/stakeholder-matrix-generator).
 
 [LinkedIn 💼](https://www.linkedin.com/in/stan-nieuwmans/)
 
